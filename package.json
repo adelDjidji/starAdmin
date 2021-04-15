@@ -86,7 +86,7 @@
     "typicons.font": "^2.0.9"
   },
   "scripts": {
-    "start": "PORT=3006 craco start",
+    "start": "PORT=3002 craco start",
     "build": "craco build",
     "test": "craco test",
     "eject": "react-scripts eject"
